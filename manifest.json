@@ -1,0 +1,11 @@
+{
+    "id": "slipstream",
+    "name": "Slipstream",
+    "version": "0.0.1",
+    "minAppVersion": "0.9.12",
+    "description": "Draft behind clarity. Slipstream your notes to the finish line, be the Lewis Hamilton of taking notes!",
+    "author": "Ayush Desai",
+    "main": "main.js",
+    "authorUrl": "https://desai.vercel.app",
+    "isDesktopOnly": true
+  }
